@@ -1,0 +1,18 @@
+
+
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment config
+.env
+venv/
+.venv/
+
+# VSCode
+.vscode/
+.DS_Store
+
+# OS junk
+Thumbs.db
